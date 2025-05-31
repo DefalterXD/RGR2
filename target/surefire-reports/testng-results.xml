@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-31T09:32:48 GMT+05:00" name="TestSuite" finished-at="2025-05-31T09:33:09 GMT+05:00" duration-ms="20935">
+    <groups>
+    </groups>
+    <test started-at="2025-05-31T09:32:48 GMT+05:00" name="UserManagementTests" finished-at="2025-05-31T09:33:09 GMT+05:00" duration-ms="20935">
+      <class name="com.example.UserManagementTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.UserManagementTest@6dee4f1b]" started-at="2025-05-31T09:32:48 GMT+05:00" name="setUp" finished-at="2025-05-31T09:32:56 GMT+05:00" duration-ms="8824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testUserRegistration()[pri:1, instance:com.example.UserManagementTest@6dee4f1b]" started-at="2025-05-31T09:32:56 GMT+05:00" name="testUserRegistration" finished-at="2025-05-31T09:33:02 GMT+05:00" duration-ms="5373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserRegistration -->
+        <test-method signature="testProfileUpdate()[pri:2, instance:com.example.UserManagementTest@6dee4f1b]" started-at="2025-05-31T09:33:02 GMT+05:00" name="testProfileUpdate" finished-at="2025-05-31T09:33:04 GMT+05:00" duration-ms="2491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProfileUpdate -->
+        <test-method signature="testLogoutAndReLogin()[pri:3, instance:com.example.UserManagementTest@6dee4f1b]" started-at="2025-05-31T09:33:04 GMT+05:00" name="testLogoutAndReLogin" finished-at="2025-05-31T09:33:08 GMT+05:00" duration-ms="3836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogoutAndReLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.UserManagementTest@6dee4f1b]" started-at="2025-05-31T09:33:08 GMT+05:00" name="tearDown" finished-at="2025-05-31T09:33:09 GMT+05:00" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.UserManagementTest -->
+    </test> <!-- UserManagementTests -->
+  </suite> <!-- TestSuite -->
+</testng-results>
